@@ -1,3 +1,7 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/ValentinNikolaev/multirbl-monitor)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ValentinNikolaev.multirbl-monitor)
+
+
 # multirbl-monitor
 
 Monitors multiple DNSRBLs and can send you an e-mail if your SMTP host is blacklisted.
